@@ -10,3 +10,5 @@ I also watch shows or movies, particularly those two, and not other content-rela
 |----------------|----------------------------|
 | CSC 2431       | Data Structures II         |
 | UFDN 3100      | Christian Theology         |
+
+#Thank you for viewing my page!
